@@ -26,7 +26,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-   links:
+  links:
     - rel: stylesheet
       href: https://jna-dealer-program.github.io/themes/light.css
 
