@@ -39,7 +39,7 @@ status-website:
 
 
 i18n:
-  footer: ©️ Jeff Gaboni 2022, Powered by [Upptime](https://upptime.js.org/).
+  footer: ©️ Jeff Gaboni 2022.
   liveStatus: Service Status
   allSystemsOperational: All services are operational! 
   
