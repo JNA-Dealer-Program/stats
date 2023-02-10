@@ -17,21 +17,23 @@ sites:
     url: https://jnaretail.com/  
   - name: Medicare Service
     url: https://medicareservice.net/
+  - name: Home Alarm Security
+    url: https://www.homealarmsecurity.org/
+  - name: Test broken website
+    url: https://www.asaasasasasasasasa.orgy/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Monitor and status page"
   introMessage: This is a status page which uses **real-time** data from JNA Dealer Websites
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
   links:
     - rel: stylesheet
       href: https://jna-dealer-program.github.io/global.css
