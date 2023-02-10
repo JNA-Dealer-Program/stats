@@ -19,6 +19,8 @@ sites:
     url: https://medicareservice.net/
   - name: Home Alarm Security
     url: https://www.homealarmsecurity.org/
+  - name: Partnerchannel.org
+    url: https://www.Partnerchannel.org/
   - name: Test broken website
     url: https://www.asaasasasasasasasa.orgy/
     
@@ -28,12 +30,9 @@ status-website:
   # cname: jna-dealer-program.github.io
   baseUrl: /stats
   logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
-  name: Upptime
-  introTitle: "Monitor and status page"
+  name: Monitoring
+  introTitle: "Monitor and Status page"
   introMessage: This is a status page which uses **real-time** data from JNA Dealer Websites
-  navbar:
-    - title: Status
-      href: /
   links:
     - rel: stylesheet
       href: https://jna-dealer-program.github.io/global.css
