@@ -118,19 +118,19 @@
     "url": "https://medicareservice.net/",
     "icon": "https://icons.duckduckgo.com/ip3/medicareservice.net.ico",
     "slug": "medicare-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 1187,
-    "timeWeek": 1022,
-    "timeMonth": 1022,
-    "timeYear": 1022,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1024,
+    "timeDay": 1149,
+    "timeWeek": 1024,
+    "timeMonth": 1024,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-02-15": 0
+      "2023-02-15": 18
     }
   },
   {
