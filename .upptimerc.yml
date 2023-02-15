@@ -21,6 +21,10 @@ sites:
     url: https://www.homealarmsecurity.org/
   - name: Partnerchannel.org
     url: https://www.Partnerchannel.org/
+  - name: Realtors Nearby
+    url: https://realtorsnearby.net/
+  - name: Quotetool
+    url: https://www.quotetool.net/
   - name: Test broken website
     url: https://www.asaasasasasasasasa.orgy/
     
