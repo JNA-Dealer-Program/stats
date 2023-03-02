@@ -1,7 +1,7 @@
 url: https://jna.org
-status: up
-code: 200
-responseTime: 1933
-lastUpdated: 2023-03-01T23:10:51.921Z
+status: down
+code: 500
+responseTime: 687
+lastUpdated: 2023-03-02T19:22:36.397Z
 startTime: Wed Feb 08 2023 21:39:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
