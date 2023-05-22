@@ -30,8 +30,8 @@
     "slug": "jna-dealer",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
@@ -40,7 +40,7 @@
     "timeMonth": 723,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-05-22": 0
+      "2023-05-22": 1
     }
   },
   {
@@ -149,7 +149,7 @@
     "timeMonth": 791,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2023-05-22": 42,
+      "2023-05-22": 43,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -252,7 +252,7 @@
     "timeMonth": 1011,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-05-22": 42,
+      "2023-05-22": 43,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
