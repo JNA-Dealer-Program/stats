@@ -259,19 +259,19 @@
     "url": "https://virtualhelper.co/",
     "icon": "https://icons.duckduckgo.com/ip3/virtualhelper.co.ico",
     "slug": "virtual-helper",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
-    "time": 382,
-    "timeDay": 386,
-    "timeWeek": 395,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 362,
+    "timeDay": 305,
+    "timeWeek": 366,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-06-29": 81
+      "2023-06-29": 96
     }
   },
   {
