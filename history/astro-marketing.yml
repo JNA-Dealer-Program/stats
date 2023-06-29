@@ -1,7 +1,7 @@
 url: https://astromarketing.org/
-status: up
-code: 200
-responseTime: 2169
-lastUpdated: 2023-06-29T23:10:20.980Z
+status: down
+code: 500
+responseTime: 224
+lastUpdated: 2023-06-29T23:40:27.227Z
 startTime: Wed Feb 08 2023 23:41:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
