@@ -27,6 +27,8 @@ sites:
     url: https://www.quotetool.net/
   - name: Ducky Unlimited
     url: https://www.duckyunlimited.com/
+  - name: Solar Installers Near Me
+    url: https://solarinstallersnearme.org/
   - name: Test broken website
     url: https://www.asaasasasasasasasa.orgy/
     
