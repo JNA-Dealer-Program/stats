@@ -43,15 +43,15 @@ status-website:
   baseUrl: /stats
   logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
   name: Monitoring
-  introTitle: "Monitor and Status page"
-  introMessage: This is a status page which uses **real-time** data from JNA Dealer Websites
+  introTitle: "Monitor and Status page for JNA Websites"
+  introMessage: This is a status page that uses **real-time** data from JNA Dealer Websites
   links:
     - rel: stylesheet
       href: https://jna-dealer-program.github.io/global.css
 
 
 i18n:
-  footer: ©️  2023
+  footer: ©️  2023 - Created by Joey 
   liveStatus: Service Status
   allSystemsOperational: All services are operational! 
   
