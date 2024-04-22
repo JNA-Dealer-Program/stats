@@ -430,18 +430,20 @@
     "url": "https://topwarranty.net",
     "icon": "https://icons.duckduckgo.com/ip3/topwarranty.net.ico",
     "slug": "top-warranty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 525,
-    "timeWeek": 478,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "time": 459,
+    "timeDay": 650,
+    "timeWeek": 515,
+    "timeMonth": 459,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   },
   {
     "name": "Vmed Mobile",
