@@ -430,9 +430,9 @@
     "url": "https://www.vmedmobile.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vmedmobile.com.ico",
     "slug": "vmed-mobile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -442,6 +442,7 @@
     "timeMonth": 554,
     "timeYear": 498,
     "dailyMinutesDown": {
+      "2024-06-10": 0,
       "2024-04-24": 26
     }
   },
