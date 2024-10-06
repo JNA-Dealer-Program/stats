@@ -1,7 +1,7 @@
 url: https://medicareservice.net/
-status: down
-code: 500
-responseTime: 625
-lastUpdated: 2024-10-06T08:51:43.546Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2024-10-06T09:09:05.716Z
 startTime: 2023-02-08T23:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
