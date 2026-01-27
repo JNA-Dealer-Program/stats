@@ -1,7 +1,7 @@
 url: https://www.homealarmsecurity.org/
-status: up
-code: 202
-responseTime: 4861
-lastUpdated: 2026-01-27T21:43:56.438Z
+status: down
+code: 429
+responseTime: 172
+lastUpdated: 2026-01-27T21:54:22.910Z
 startTime: 2023-02-10T15:51:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
