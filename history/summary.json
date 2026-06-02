@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tvinternetdeals.org.ico",
     "slug": "tv-internet-deals",
     "status": "down",
-    "uptime": "89.45%",
+    "uptime": "89.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.27%",
+    "uptimeYear": "65.25%",
     "time": 1703,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1941,
+    "timeYear": 1944,
     "dailyMinutesDown": {
       "2025-07-10": 53,
       "2025-07-18": 38,
@@ -44,7 +44,7 @@
       "2026-01-02": 22,
       "2026-01-08": 23,
       "2026-01-23": 20,
-      "2026-06-02": 1317,
+      "2026-06-02": 1401,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -180,15 +180,15 @@
     "slug": "jna-dealer",
     "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "59.10%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "96.86%",
+    "uptimeDay": "58.94%",
+    "uptimeWeek": "92.44%",
+    "uptimeMonth": "95.09%",
+    "uptimeYear": "96.85%",
     "time": 586,
-    "timeDay": 648,
+    "timeDay": 589,
     "timeWeek": 685,
     "timeMonth": 613,
-    "timeYear": 569,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-06-16": 51,
       "2025-07-02": 1046,
@@ -235,7 +235,7 @@
       "2026-05-25": 196,
       "2026-05-30": 80,
       "2026-06-01": 91,
-      "2026-06-02": 508
+      "2026-06-02": 591
     }
   },
   {
@@ -244,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jna.org.ico",
     "slug": "jna-org",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "59.14%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.46%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "96.24%",
+    "uptimeYear": "99.38%",
     "time": 813,
-    "timeDay": 526,
+    "timeDay": 522,
     "timeWeek": 599,
     "timeMonth": 669,
-    "timeYear": 863,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-07-18": 128,
       "2025-07-30": 22,
@@ -285,7 +285,7 @@
       "2026-05-24": 51,
       "2026-05-25": 196,
       "2026-06-01": 91,
-      "2026-06-02": 508
+      "2026-06-02": 591
     }
   },
   {
@@ -293,17 +293,17 @@
     "url": "https://wowmover.com",
     "icon": "https://icons.duckduckgo.com/ip3/wowmover.com.ico",
     "slug": "wowmover",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.66%",
     "time": 194,
-    "timeDay": 123,
-    "timeWeek": 136,
-    "timeMonth": 141,
-    "timeYear": 202,
+    "timeDay": 100,
+    "timeWeek": 128,
+    "timeMonth": 139,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-07-10": 53,
       "2025-08-03": 19,
@@ -341,7 +341,7 @@
       "2026-05-23": 74,
       "2026-05-24": 51,
       "2026-05-30": 80,
-      "2026-06-02": 11
+      "2026-06-02": 93
     }
   },
   {
@@ -460,7 +460,7 @@
     "timeDay": 185,
     "timeWeek": 659,
     "timeMonth": 2344,
-    "timeYear": 805,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2025-06-16": 22,
       "2025-06-25": 22,
@@ -543,17 +543,17 @@
     "url": "https://www.Partnerchannel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.partnerchannel.org.ico",
     "slug": "partnerchannel-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "97.92%",
-    "time": 1571,
-    "timeDay": 1708,
-    "timeWeek": 1715,
-    "timeMonth": 1742,
-    "timeYear": 1635,
+    "uptimeDay": "78.72%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "97.91%",
+    "time": 1573,
+    "timeDay": 1836,
+    "timeWeek": 1761,
+    "timeMonth": 1751,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2025-06-16": 32,
       "2025-06-26": 78,
@@ -597,7 +597,7 @@
       "2026-05-24": 51,
       "2026-05-25": 256,
       "2026-05-30": 75,
-      "2026-06-02": 225
+      "2026-06-02": 306
     }
   },
   {
@@ -650,15 +650,15 @@
     "slug": "quotetool",
     "status": "down",
     "uptime": "74.57%",
-    "uptimeDay": "60.19%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "60.01%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "95.80%",
     "uptimeYear": "41.62%",
     "time": 995,
-    "timeDay": 1177,
+    "timeDay": 775,
     "timeWeek": 1170,
     "timeMonth": 1323,
-    "timeYear": 854,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-12-31": 187,
       "2025-12-30": 1440,
@@ -897,7 +897,7 @@
       "2026-05-25": 195,
       "2026-05-30": 70,
       "2026-06-01": 91,
-      "2026-06-02": 492
+      "2026-06-02": 575
     }
   },
   {
@@ -958,7 +958,7 @@
     "timeDay": 143,
     "timeWeek": 206,
     "timeMonth": 2937,
-    "timeYear": 855,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-07-10": 51,
       "2025-07-18": 38,
@@ -1002,16 +1002,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/topwarranty.net.ico",
     "slug": "top-warranty",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "60.87%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.65%",
+    "uptimeDay": "60.68%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "99.42%",
     "time": 657,
-    "timeDay": 633,
+    "timeDay": 636,
     "timeWeek": 756,
     "timeMonth": 807,
-    "timeYear": 656,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2025-07-04": 16,
       "2025-07-10": 51,
@@ -1051,7 +1051,7 @@
       "2026-05-25": 195,
       "2026-05-30": 66,
       "2026-06-01": 90,
-      "2026-06-02": 482
+      "2026-06-02": 566
     }
   },
   {
@@ -1069,7 +1069,7 @@
     "timeDay": 334,
     "timeWeek": 437,
     "timeMonth": 531,
-    "timeYear": 737,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-07-10": 49,
       "2025-07-18": 20,
