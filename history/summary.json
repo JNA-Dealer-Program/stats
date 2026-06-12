@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tvinternetdeals.org.ico",
     "slug": "tv-internet-deals",
     "status": "down",
-    "uptime": "88.76%",
+    "uptime": "88.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.71%",
+    "uptimeYear": "62.62%",
     "time": 1718,
     "timeDay": 0,
     "timeWeek": 0,
@@ -44,7 +44,7 @@
       "2026-01-02": 22,
       "2026-01-08": 23,
       "2026-01-23": 20,
-      "2026-06-12": 378,
+      "2026-06-12": 856,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -188,11 +188,11 @@
     "url": "https://www.jnadealerprogram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jnadealerprogram.com.ico",
     "slug": "jna-dealer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "80.60%",
-    "uptimeWeek": "76.85%",
-    "uptimeMonth": "89.01%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "76.70%",
+    "uptimeMonth": "88.97%",
     "uptimeYear": "96.26%",
     "time": 574,
     "timeDay": 504,
@@ -255,7 +255,7 @@
       "2026-06-09": 91,
       "2026-06-10": 485,
       "2026-06-11": 37,
-      "2026-06-12": 279
+      "2026-06-12": 295
     }
   },
   {
@@ -263,17 +263,17 @@
     "url": "https://jna.org",
     "icon": "https://icons.duckduckgo.com/ip3/jna.org.ico",
     "slug": "jna-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "80.62%",
-    "uptimeWeek": "64.58%",
-    "uptimeMonth": "86.98%",
-    "uptimeYear": "98.57%",
-    "time": 819,
-    "timeDay": 606,
-    "timeWeek": 619,
-    "timeMonth": 645,
-    "timeYear": 858,
+    "uptimeDay": "79.55%",
+    "uptimeWeek": "64.42%",
+    "uptimeMonth": "86.94%",
+    "uptimeYear": "98.56%",
+    "time": 820,
+    "timeDay": 628,
+    "timeWeek": 623,
+    "timeMonth": 646,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-07-18": 128,
       "2025-07-30": 22,
@@ -315,7 +315,7 @@
       "2026-06-09": 91,
       "2026-06-10": 431,
       "2026-06-11": 17,
-      "2026-06-12": 279
+      "2026-06-12": 294
     }
   },
   {
@@ -574,13 +574,13 @@
     "url": "https://www.Partnerchannel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.partnerchannel.org.ico",
     "slug": "partnerchannel-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "97.88%",
-    "time": 1595,
+    "time": 1598,
     "timeDay": 1711,
     "timeWeek": 1505,
     "timeMonth": 1533,
@@ -631,7 +631,8 @@
       "2026-06-02": 306,
       "2026-06-07": 80,
       "2026-06-11": 21,
-      "2026-06-10": 49
+      "2026-06-10": 49,
+      "2026-06-12": 11
     }
   },
   {
@@ -683,12 +684,12 @@
     "url": "https://www.quotetool.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.quotetool.net.ico",
     "slug": "quotetool",
-    "status": "up",
-    "uptime": "74.62%",
-    "uptimeDay": "80.63%",
-    "uptimeWeek": "78.57%",
-    "uptimeMonth": "89.53%",
-    "uptimeYear": "43.62%",
+    "status": "down",
+    "uptime": "74.63%",
+    "uptimeDay": "80.22%",
+    "uptimeWeek": "78.52%",
+    "uptimeMonth": "89.52%",
+    "uptimeYear": "43.71%",
     "time": 948,
     "timeDay": 934,
     "timeWeek": 955,
@@ -932,7 +933,7 @@
       "2026-06-09": 91,
       "2026-06-10": 319,
       "2026-06-11": 38,
-      "2026-06-12": 279
+      "2026-06-12": 285
     }
   },
   {
@@ -1037,10 +1038,10 @@
     "url": "https://topwarranty.net",
     "icon": "https://icons.duckduckgo.com/ip3/topwarranty.net.ico",
     "slug": "top-warranty",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "80.65%",
-    "uptimeWeek": "78.69%",
+    "uptimeDay": "80.56%",
+    "uptimeWeek": "78.68%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "98.87%",
     "time": 658,
@@ -1097,7 +1098,7 @@
       "2026-06-09": 91,
       "2026-06-10": 314,
       "2026-06-11": 38,
-      "2026-06-12": 279
+      "2026-06-12": 280
     }
   },
   {
