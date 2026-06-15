@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tvinternetdeals.org.ico",
     "slug": "tv-internet-deals",
     "status": "down",
-    "uptime": "88.56%",
+    "uptime": "88.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.95%",
+    "uptimeYear": "61.93%",
     "time": 1726,
     "timeDay": 0,
     "timeWeek": 0,
@@ -44,7 +44,7 @@
       "2026-01-02": 22,
       "2026-01-08": 23,
       "2026-01-23": 20,
-      "2026-06-15": 26,
+      "2026-06-15": 171,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -192,14 +192,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jnadealerprogram.com.ico",
     "slug": "jna-dealer",
     "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "81.46%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "87.78%",
-    "uptimeYear": "96.14%",
+    "uptime": "98.53%",
+    "uptimeDay": "71.39%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "87.45%",
+    "uptimeYear": "96.11%",
     "time": 580,
     "timeDay": 577,
-    "timeWeek": 720,
+    "timeWeek": 713,
     "timeMonth": 691,
     "timeYear": 585,
     "dailyMinutesDown": {
@@ -261,7 +261,7 @@
       "2026-06-12": 546,
       "2026-06-13": 119,
       "2026-06-14": 241,
-      "2026-06-15": 26
+      "2026-06-15": 171
     }
   },
   {
@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jna.org.ico",
     "slug": "jna-org",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "81.51%",
+    "uptime": "99.18%",
+    "uptimeDay": "71.44%",
     "uptimeWeek": "74.60%",
-    "uptimeMonth": "85.49%",
-    "uptimeYear": "98.44%",
+    "uptimeMonth": "85.16%",
+    "uptimeYear": "98.41%",
     "time": 822,
     "timeDay": 617,
     "timeWeek": 649,
@@ -324,7 +324,7 @@
       "2026-06-12": 546,
       "2026-06-13": 118,
       "2026-06-14": 240,
-      "2026-06-15": 26
+      "2026-06-15": 171
     }
   },
   {
@@ -333,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wowmover.com.ico",
     "slug": "wowmover",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.85%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.61%",
     "time": 194,
     "timeDay": 114,
     "timeWeek": 132,
@@ -383,7 +383,7 @@
       "2026-06-02": 93,
       "2026-06-07": 81,
       "2026-06-11": 17,
-      "2026-06-15": 11
+      "2026-06-15": 156
     }
   },
   {
@@ -692,14 +692,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quotetool.net.ico",
     "slug": "quotetool",
     "status": "down",
-    "uptime": "78.10%",
-    "uptimeDay": "81.54%",
-    "uptimeWeek": "81.03%",
-    "uptimeMonth": "88.31%",
+    "uptime": "78.09%",
+    "uptimeDay": "71.46%",
+    "uptimeWeek": "80.56%",
+    "uptimeMonth": "87.98%",
     "uptimeYear": "44.25%",
     "time": 934,
     "timeDay": 760,
-    "timeWeek": 990,
+    "timeWeek": 971,
     "timeMonth": 1153,
     "timeYear": 880,
     "dailyMinutesDown": {
@@ -940,7 +940,7 @@
       "2026-06-12": 537,
       "2026-06-13": 118,
       "2026-06-14": 239,
-      "2026-06-15": 26
+      "2026-06-15": 172
     }
   },
   {
@@ -1046,14 +1046,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/topwarranty.net.ico",
     "slug": "top-warranty",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "81.58%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "98.75%",
+    "uptime": "99.34%",
+    "uptimeDay": "71.51%",
+    "uptimeWeek": "80.67%",
+    "uptimeMonth": "88.09%",
+    "uptimeYear": "98.72%",
     "time": 663,
     "timeDay": 787,
-    "timeWeek": 809,
+    "timeWeek": 795,
     "timeMonth": 822,
     "timeYear": 675,
     "dailyMinutesDown": {
@@ -1108,7 +1108,7 @@
       "2026-06-12": 532,
       "2026-06-13": 118,
       "2026-06-14": 239,
-      "2026-06-15": 27
+      "2026-06-15": 172
     }
   },
   {
