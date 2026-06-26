@@ -1,7 +1,7 @@
 url: https://topwarranty.net
-status: up
-code: 200
-responseTime: 2242
-lastUpdated: 2026-06-26T00:05:51.724Z
+status: down
+code: 415
+responseTime: 715
+lastUpdated: 2026-06-26T09:49:02.270Z
 startTime: 2024-04-05T14:26:49.873Z
 generator: Upptime <https://github.com/upptime/upptime>
