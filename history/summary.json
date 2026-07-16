@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tvinternetdeals.org.ico",
     "slug": "tv-internet-deals",
     "status": "down",
-    "uptime": "87.35%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "87.05%",
+    "uptime": "87.34%",
+    "uptimeDay": "82.23%",
+    "uptimeWeek": "86.66%",
     "uptimeMonth": "41.73%",
-    "uptimeYear": "56.83%",
+    "uptimeYear": "56.82%",
     "time": 1589,
     "timeDay": 938,
     "timeWeek": 914,
@@ -212,7 +212,7 @@
       "2026-07-13": 117,
       "2026-07-14": 66,
       "2026-07-15": 215,
-      "2026-07-16": 2
+      "2026-07-16": 41
     }
   },
   {
@@ -222,10 +222,10 @@
     "slug": "jna-dealer",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "87.17%",
-    "uptimeMonth": "85.14%",
-    "uptimeYear": "97.45%",
+    "uptimeDay": "82.27%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "97.44%",
     "time": 613,
     "timeDay": 599,
     "timeWeek": 668,
@@ -288,7 +288,7 @@
       "2026-07-13": 117,
       "2026-07-14": 66,
       "2026-07-15": 215,
-      "2026-07-16": 2
+      "2026-07-16": 40
     }
   },
   {
@@ -297,11 +297,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jna.org.ico",
     "slug": "jna-org",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "85.00%",
-    "uptimeWeek": "88.34%",
-    "uptimeMonth": "85.88%",
-    "uptimeYear": "97.21%",
+    "uptime": "99.18%",
+    "uptimeDay": "82.31%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "85.79%",
+    "uptimeYear": "97.20%",
     "time": 801,
     "timeDay": 612,
     "timeWeek": 678,
@@ -372,7 +372,7 @@
       "2026-07-13": 116,
       "2026-07-14": 66,
       "2026-07-15": 215,
-      "2026-07-16": 2
+      "2026-07-16": 40
     }
   },
   {
@@ -698,10 +698,10 @@
     "slug": "quotetool",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "85.02%",
-    "uptimeWeek": "87.36%",
-    "uptimeMonth": "85.26%",
-    "uptimeYear": "97.50%",
+    "uptimeDay": "82.34%",
+    "uptimeWeek": "86.98%",
+    "uptimeMonth": "85.18%",
+    "uptimeYear": "97.49%",
     "time": 912,
     "timeDay": 661,
     "timeWeek": 809,
@@ -765,7 +765,7 @@
       "2026-07-13": 116,
       "2026-07-14": 66,
       "2026-07-15": 214,
-      "2026-07-16": 2
+      "2026-07-16": 40
     }
   },
   {
@@ -813,8 +813,8 @@
     "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.34%",
-    "uptimeYear": "93.29%",
+    "uptimeMonth": "25.25%",
+    "uptimeYear": "93.28%",
     "time": 793,
     "timeDay": 0,
     "timeWeek": 0,
@@ -854,7 +854,7 @@
       "2026-05-12": 103,
       "2026-05-16": 55,
       "2026-05-17": 428,
-      "2026-07-16": 70,
+      "2026-07-16": 109,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -886,11 +886,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/topwarranty.net.ico",
     "slug": "top-warranty",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "85.08%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "85.33%",
-    "uptimeYear": "97.53%",
+    "uptime": "98.91%",
+    "uptimeDay": "82.40%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "97.52%",
     "time": 701,
     "timeDay": 673,
     "timeWeek": 670,
@@ -954,7 +954,7 @@
       "2026-07-13": 116,
       "2026-07-14": 65,
       "2026-07-15": 214,
-      "2026-07-16": 1
+      "2026-07-16": 40
     }
   },
   {
