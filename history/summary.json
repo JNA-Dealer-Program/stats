@@ -5,9 +5,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tvinternetdeals.org.ico",
     "slug": "tv-internet-deals",
     "status": "down",
-    "uptime": "87.34%",
+    "uptime": "87.33%",
     "uptimeDay": "73.82%",
-    "uptimeWeek": "85.42%",
+    "uptimeWeek": "85.02%",
     "uptimeMonth": "44.16%",
     "uptimeYear": "56.75%",
     "time": 1589,
@@ -213,7 +213,7 @@
       "2026-07-14": 66,
       "2026-07-15": 215,
       "2026-07-16": 379,
-      "2026-07-17": 2
+      "2026-07-17": 42
     }
   },
   {
@@ -224,13 +224,13 @@
     "status": "down",
     "uptime": "99.25%",
     "uptimeDay": "74.19%",
-    "uptimeWeek": "85.54%",
-    "uptimeMonth": "84.42%",
-    "uptimeYear": "97.42%",
+    "uptimeWeek": "85.14%",
+    "uptimeMonth": "84.39%",
+    "uptimeYear": "97.41%",
     "time": 616,
     "timeDay": 691,
     "timeWeek": 667,
-    "timeMonth": 706,
+    "timeMonth": 704,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2026-04-10": 111,
@@ -288,7 +288,7 @@
       "2026-07-14": 66,
       "2026-07-15": 215,
       "2026-07-16": 374,
-      "2026-07-17": 2
+      "2026-07-17": 42
     }
   },
   {
@@ -299,13 +299,13 @@
     "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "82.27%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "85.43%",
+    "uptimeWeek": "87.47%",
+    "uptimeMonth": "85.40%",
     "uptimeYear": "97.17%",
     "time": 795,
     "timeDay": 606,
     "timeWeek": 660,
-    "timeMonth": 676,
+    "timeMonth": 675,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-12-23": 21,
@@ -371,7 +371,7 @@
       "2026-07-14": 66,
       "2026-07-15": 215,
       "2026-07-16": 258,
-      "2026-07-17": 2
+      "2026-07-17": 42
     }
   },
   {
@@ -700,8 +700,8 @@
     "status": "down",
     "uptime": "99.27%",
     "uptimeDay": "74.61%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "84.56%",
+    "uptimeWeek": "85.34%",
+    "uptimeMonth": "84.54%",
     "uptimeYear": "97.50%",
     "time": 906,
     "timeDay": 896,
@@ -764,7 +764,7 @@
       "2026-07-14": 66,
       "2026-07-15": 214,
       "2026-07-16": 369,
-      "2026-07-17": 2
+      "2026-07-17": 42
     }
   },
   {
@@ -812,8 +812,8 @@
     "uptime": "96.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.05%",
-    "uptimeYear": "93.02%",
+    "uptimeMonth": "21.96%",
+    "uptimeYear": "93.01%",
     "time": 794,
     "timeDay": 0,
     "timeWeek": 0,
@@ -853,7 +853,7 @@
       "2026-05-12": 103,
       "2026-05-16": 55,
       "2026-05-17": 428,
-      "2026-07-17": 73,
+      "2026-07-17": 113,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -888,9 +888,9 @@
     "status": "down",
     "uptime": "98.91%",
     "uptimeDay": "82.33%",
-    "uptimeWeek": "86.92%",
-    "uptimeMonth": "84.88%",
-    "uptimeYear": "97.52%",
+    "uptimeWeek": "86.52%",
+    "uptimeMonth": "84.86%",
+    "uptimeYear": "97.51%",
     "time": 701,
     "timeDay": 493,
     "timeWeek": 597,
@@ -953,7 +953,7 @@
       "2026-07-14": 65,
       "2026-07-15": 214,
       "2026-07-16": 256,
-      "2026-07-17": 1
+      "2026-07-17": 41
     }
   },
   {
