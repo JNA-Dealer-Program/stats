@@ -6,10 +6,10 @@
     "slug": "tv-internet-deals",
     "status": "down",
     "uptime": "87.35%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "81.85%",
+    "uptimeDay": "85.60%",
+    "uptimeWeek": "81.41%",
     "uptimeMonth": "57.76%",
-    "uptimeYear": "56.53%",
+    "uptimeYear": "56.52%",
     "time": 1587,
     "timeDay": 918,
     "timeWeek": 938,
@@ -217,7 +217,7 @@
       "2026-07-19": 395,
       "2026-07-20": 137,
       "2026-07-21": 161,
-      "2026-07-22": 2
+      "2026-07-22": 46
     }
   },
   {
@@ -227,9 +227,9 @@
     "slug": "jna-dealer",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "88.69%",
-    "uptimeWeek": "81.97%",
-    "uptimeMonth": "83.71%",
+    "uptimeDay": "85.63%",
+    "uptimeWeek": "81.53%",
+    "uptimeMonth": "83.61%",
     "uptimeYear": "97.40%",
     "time": 626,
     "timeDay": 720,
@@ -288,7 +288,7 @@
       "2026-07-19": 394,
       "2026-07-20": 137,
       "2026-07-21": 161,
-      "2026-07-22": 2
+      "2026-07-22": 46
     }
   },
   {
@@ -298,10 +298,10 @@
     "slug": "jna-org",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "83.64%",
-    "uptimeMonth": "84.83%",
-    "uptimeYear": "97.06%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "83.20%",
+    "uptimeMonth": "84.73%",
+    "uptimeYear": "97.05%",
     "time": 780,
     "timeDay": 721,
     "timeWeek": 758,
@@ -367,7 +367,7 @@
       "2026-07-19": 394,
       "2026-07-20": 136,
       "2026-07-21": 161,
-      "2026-07-22": 2
+      "2026-07-22": 46
     }
   },
   {
@@ -694,11 +694,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quotetool.net.ico",
     "slug": "quotetool",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "82.17%",
-    "uptimeMonth": "83.85%",
-    "uptimeYear": "97.38%",
+    "uptime": "99.23%",
+    "uptimeDay": "85.67%",
+    "uptimeWeek": "81.74%",
+    "uptimeMonth": "83.75%",
+    "uptimeYear": "97.37%",
     "time": 964,
     "timeDay": 631,
     "timeWeek": 698,
@@ -757,7 +757,7 @@
       "2026-07-19": 393,
       "2026-07-20": 136,
       "2026-07-21": 160,
-      "2026-07-22": 2
+      "2026-07-22": 46
     }
   },
   {
@@ -802,11 +802,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/solarinstallersnearme.org.ico",
     "slug": "solar-installers-near-me",
     "status": "down",
-    "uptime": "96.38%",
+    "uptime": "96.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "5.63%",
-    "uptimeYear": "91.66%",
+    "uptimeMonth": "5.53%",
+    "uptimeYear": "91.65%",
     "time": 795,
     "timeDay": 0,
     "timeWeek": 0,
@@ -845,7 +845,7 @@
       "2026-05-12": 103,
       "2026-05-16": 55,
       "2026-05-17": 428,
-      "2026-07-22": 66,
+      "2026-07-22": 110,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -884,10 +884,10 @@
     "slug": "top-warranty",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "88.80%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "84.17%",
-    "uptimeYear": "97.41%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "82.92%",
+    "uptimeMonth": "84.07%",
+    "uptimeYear": "97.40%",
     "time": 700,
     "timeDay": 653,
     "timeWeek": 612,
@@ -947,7 +947,7 @@
       "2026-07-19": 393,
       "2026-07-20": 136,
       "2026-07-21": 160,
-      "2026-07-22": 1
+      "2026-07-22": 45
     }
   },
   {
