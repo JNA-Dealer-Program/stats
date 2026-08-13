@@ -13,7 +13,7 @@
     "time": 1574,
     "timeDay": 869,
     "timeWeek": 1178,
-    "timeMonth": 952,
+    "timeMonth": 951,
     "timeYear": 1669,
     "dailyMinutesDown": {
       "2025-08-14": 138,
@@ -244,7 +244,7 @@
     "time": 621,
     "timeDay": 650,
     "timeWeek": 1057,
-    "timeMonth": 727,
+    "timeMonth": 728,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2026-06-09": 91,
@@ -315,7 +315,7 @@
     "time": 789,
     "timeDay": 747,
     "timeWeek": 788,
-    "timeMonth": 723,
+    "timeMonth": 724,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2026-05-11": 233,
@@ -393,7 +393,7 @@
     "time": 197,
     "timeDay": 146,
     "timeWeek": 253,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-08-14": 138,
@@ -452,7 +452,7 @@
     "time": 467,
     "timeDay": 288,
     "timeWeek": 439,
-    "timeMonth": 408,
+    "timeMonth": 407,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-08-27": 25,
@@ -488,16 +488,16 @@
     "url": "https://jnaretail.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jnaretail.com.ico",
     "slug": "jna-retail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "57.95%",
-    "uptimeWeek": "79.87%",
-    "uptimeMonth": "84.91%",
+    "uptimeDay": "57.20%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "84.89%",
     "uptimeYear": "97.55%",
-    "time": 417,
+    "time": 415,
     "timeDay": 262,
     "timeWeek": 306,
-    "timeMonth": 313,
+    "timeMonth": 311,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-08-16": 18,
@@ -531,7 +531,7 @@
       "2026-08-10": 132,
       "2026-08-11": 389,
       "2026-08-12": 289,
-      "2026-08-13": 607
+      "2026-08-13": 618
     }
   },
   {
@@ -548,7 +548,7 @@
     "time": 774,
     "timeDay": 766,
     "timeWeek": 1272,
-    "timeMonth": 869,
+    "timeMonth": 872,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2025-08-16": 16,
@@ -599,7 +599,7 @@
     "time": 520,
     "timeDay": 318,
     "timeWeek": 600,
-    "timeMonth": 596,
+    "timeMonth": 598,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-08-16": 32,
@@ -644,7 +644,7 @@
     "time": 1604,
     "timeDay": 945,
     "timeWeek": 1995,
-    "timeMonth": 1570,
+    "timeMonth": 1588,
     "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-08-14": 138,
@@ -710,16 +710,16 @@
     "url": "https://virtualhelper.co/",
     "icon": "https://icons.duckduckgo.com/ip3/virtualhelper.co.ico",
     "slug": "virtual-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "59.63%",
-    "uptimeWeek": "81.54%",
-    "uptimeMonth": "85.38%",
+    "uptimeDay": "59.22%",
+    "uptimeWeek": "81.65%",
+    "uptimeMonth": "85.36%",
     "uptimeYear": "97.89%",
     "time": 341,
     "timeDay": 272,
     "timeWeek": 257,
-    "timeMonth": 309,
+    "timeMonth": 308,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-08-16": 21,
@@ -750,7 +750,7 @@
       "2026-08-10": 117,
       "2026-08-11": 365,
       "2026-08-12": 269,
-      "2026-08-13": 582
+      "2026-08-13": 588
     }
   },
   {
@@ -767,7 +767,7 @@
     "time": 894,
     "timeDay": 500,
     "timeWeek": 1025,
-    "timeMonth": 731,
+    "timeMonth": 726,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2026-06-09": 91,
@@ -834,12 +834,12 @@
     "uptime": "97.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.13%",
-    "uptimeYear": "94.91%",
+    "uptimeMonth": "49.10%",
+    "uptimeYear": "94.90%",
     "time": 771,
     "timeDay": 490,
     "timeWeek": 810,
-    "timeMonth": 692,
+    "timeMonth": 690,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-08-27": 23,
@@ -863,7 +863,7 @@
       "2026-07-29": 1440,
       "2026-07-28": 875,
       "2026-07-31": 145,
-      "2026-08-13": 1420,
+      "2026-08-13": 1437,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -926,7 +926,7 @@
       "2026-05-12": 103,
       "2026-05-16": 55,
       "2026-05-17": 428,
-      "2026-08-13": 1420,
+      "2026-08-13": 1437,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -994,7 +994,7 @@
     "time": 690,
     "timeDay": 493,
     "timeWeek": 726,
-    "timeMonth": 596,
+    "timeMonth": 593,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2026-06-07": 84,
@@ -1066,7 +1066,7 @@
     "time": 674,
     "timeDay": 239,
     "timeWeek": 735,
-    "timeMonth": 496,
+    "timeMonth": 505,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-08-14": 137,
