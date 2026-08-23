@@ -13,7 +13,7 @@
     "time": 1573,
     "timeDay": 360,
     "timeWeek": 881,
-    "timeMonth": 947,
+    "timeMonth": 946,
     "timeYear": 1653,
     "dailyMinutesDown": {
       "2025-08-27": 23,
@@ -246,7 +246,7 @@
     "time": 627,
     "timeDay": 336,
     "timeWeek": 736,
-    "timeMonth": 794,
+    "timeMonth": 798,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2026-06-12": 267,
@@ -317,7 +317,7 @@
     "time": 792,
     "timeDay": 451,
     "timeWeek": 768,
-    "timeMonth": 711,
+    "timeMonth": 708,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2026-05-11": 233,
@@ -395,7 +395,7 @@
     "time": 190,
     "timeDay": 206,
     "timeWeek": 164,
-    "timeMonth": 178,
+    "timeMonth": 177,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-08-27": 24,
@@ -493,9 +493,9 @@
     "url": "https://jnaretail.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jnaretail.com.ico",
     "slug": "jna-retail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "89.58%",
+    "uptimeDay": "89.64%",
     "uptimeWeek": "90.80%",
     "uptimeMonth": "81.91%",
     "uptimeYear": "97.30%",
@@ -544,7 +544,8 @@
       "2026-08-19": 111,
       "2026-08-20": 200,
       "2026-08-21": 126,
-      "2026-08-22": 151
+      "2026-08-22": 140,
+      "2026-08-23": 9
     }
   },
   {
@@ -561,7 +562,7 @@
     "time": 784,
     "timeDay": 1038,
     "timeWeek": 997,
-    "timeMonth": 976,
+    "timeMonth": 984,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-08-27": 25,
@@ -614,7 +615,7 @@
     "time": 521,
     "timeDay": 382,
     "timeWeek": 490,
-    "timeMonth": 517,
+    "timeMonth": 519,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-08-27": 24,
@@ -661,7 +662,7 @@
     "time": 1629,
     "timeDay": 2638,
     "timeWeek": 1896,
-    "timeMonth": 1838,
+    "timeMonth": 1836,
     "timeYear": 1474,
     "dailyMinutesDown": {
       "2025-08-27": 24,
@@ -728,9 +729,9 @@
     "url": "https://virtualhelper.co/",
     "icon": "https://icons.duckduckgo.com/ip3/virtualhelper.co.ico",
     "slug": "virtual-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "93.34%",
+    "uptimeDay": "93.40%",
     "uptimeWeek": "93.08%",
     "uptimeMonth": "82.92%",
     "uptimeYear": "97.69%",
@@ -776,7 +777,8 @@
       "2026-08-19": 95,
       "2026-08-20": 157,
       "2026-08-21": 96,
-      "2026-08-22": 97
+      "2026-08-22": 90,
+      "2026-08-23": 6
     }
   },
   {
@@ -793,7 +795,7 @@
     "time": 884,
     "timeDay": 260,
     "timeWeek": 1044,
-    "timeMonth": 840,
+    "timeMonth": 847,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2026-06-13": 118,
@@ -859,12 +861,12 @@
     "uptime": "96.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.56%",
+    "uptimeMonth": "19.48%",
     "uptimeYear": "92.44%",
     "time": 772,
     "timeDay": 767,
     "timeWeek": 716,
-    "timeMonth": 758,
+    "timeMonth": 762,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2025-08-27": 23,
@@ -888,7 +890,8 @@
       "2026-07-29": 1440,
       "2026-07-28": 875,
       "2026-07-31": 145,
-      "2026-08-22": 1415,
+      "2026-08-23": 10,
+      "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -958,7 +961,8 @@
       "2026-05-12": 103,
       "2026-05-16": 55,
       "2026-05-17": 428,
-      "2026-08-22": 1415,
+      "2026-08-23": 10,
+      "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1034,8 +1038,8 @@
     "uptimeYear": "97.69%",
     "time": 689,
     "timeDay": 237,
-    "timeWeek": 496,
-    "timeMonth": 581,
+    "timeWeek": 434,
+    "timeMonth": 586,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2026-06-08": 446,
@@ -1108,7 +1112,7 @@
     "time": 672,
     "timeDay": 343,
     "timeWeek": 398,
-    "timeMonth": 517,
+    "timeMonth": 522,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2025-08-27": 22,
